@@ -1,14 +1,6 @@
-# 一个好的界面设计应该注意的75个原则
-
-
-<a href="http://36kr.com/user/401113">PMCAFF产品社</a> • 2015-12-25 • 技能GET
+# [一个好的界面设计应该注意的75个原则](http://36kr.com/p/5041515.html)
 
   一个好的界面设计应该拥有高转化率且方便用户使用，换句话说：既能达到商业目的又能满足方便易用的要求。
-
-有一个设计咨询公司根据自己的客户案例，总结了75个经过实践证明的原则：
-
-之前国内流传这篇文章的前40个规则，后35个是我熬夜翻译的，这个网站会不断的更新添加新规则，建议收藏。
-
 
 ## 1. 使用单栏布局代替多栏布局
 
@@ -383,4 +375,7 @@
   更多的选择让决策越难，甚至还会降低满意度，因为这让后悔和自责倾向增加。著名的果酱研究实验一次次的被验证。
 ![](images/14507173821384.jpg)
 
-本文由<a href="http://www.pmcaff.com">PMCAFF产品经理社原创专栏作者&nbsp;<a href="http://www.pmcaff.com/user/profile?name=%E4%B9%94%E5%90%91%E9%98%B3">乔向&nbsp;翻译自&nbsp;<a href="http://goodui.org/">http://goodui.org
+本文由
+[PMCAFF产品经理社原创专栏作者](http://www.pmcaff.com)
+[乔向](http://www.pmcaff.com/user/profile?name=%E4%B9%94%E5%90%91%E9%98%B3)
+翻译自 [GoodUI](http://goodui.org)
