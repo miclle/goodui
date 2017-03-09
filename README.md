@@ -2,11 +2,11 @@
 has high conversion rates and is easy to use.
 
 In other words, it's nice to both the business side as well as the people using it.
-Here is a running idea list which we're <a href="/evidence">actively testing</a> and <a href="/datastories">writing exclusive stories about</a>.
+Here is a running idea list which we're <a href="http://www.goodui.org/evidence">actively testing</a> and <a href="http://www.goodui.org/datastories">writing exclusive stories about</a>.
 
 We still have a long way to go.
 We continue to learn about what makes user interfaces better by trying these ideas out in various combinations on <a href="http://www.linowski.ca">real optimization projects</a>.
-At the same time, our amazing clients allow us to share detailed <a href="/datastories">optimization stories</a> for you to learn from.
+At the same time, our amazing clients allow us to share detailed <a href="http://www.goodui.org/datastories">optimization stories</a> for you to learn from.
 In the long run, our goal is to build out a <a href="http://www.goodui.org/evidence">repository of evidence</a> showing clearly which ideas work better and which ones less so.
 We hope this will make life easier for others.
 Oh and we also <a href="https://www.goodui.org/blog">blog about optimization</a> here and there.
